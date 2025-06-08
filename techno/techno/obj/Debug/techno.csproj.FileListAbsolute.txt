@@ -1,0 +1,14 @@
+C:\Users\vladi\Desktop\Производственная\TechnoService\techno\techno\bin\Debug\techno.exe.config
+C:\Users\vladi\Desktop\Производственная\TechnoService\techno\techno\bin\Debug\techno.exe
+C:\Users\vladi\Desktop\Производственная\TechnoService\techno\techno\bin\Debug\techno.pdb
+C:\Users\vladi\Desktop\Производственная\TechnoService\techno\techno\obj\Debug\techno.csproj.AssemblyReference.cache
+C:\Users\vladi\Desktop\Производственная\TechnoService\techno\techno\obj\Debug\techno.applicationForm.resources
+C:\Users\vladi\Desktop\Производственная\TechnoService\techno\techno\obj\Debug\techno.Form1.resources
+C:\Users\vladi\Desktop\Производственная\TechnoService\techno\techno\obj\Debug\techno.mainForm.resources
+C:\Users\vladi\Desktop\Производственная\TechnoService\techno\techno\obj\Debug\techno.Properties.Resources.resources
+C:\Users\vladi\Desktop\Производственная\TechnoService\techno\techno\obj\Debug\techno.regForm.resources
+C:\Users\vladi\Desktop\Производственная\TechnoService\techno\techno\obj\Debug\techno.statisticsForm.resources
+C:\Users\vladi\Desktop\Производственная\TechnoService\techno\techno\obj\Debug\techno.csproj.GenerateResource.cache
+C:\Users\vladi\Desktop\Производственная\TechnoService\techno\techno\obj\Debug\techno.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\Производственная\TechnoService\techno\techno\obj\Debug\techno.exe
+C:\Users\vladi\Desktop\Производственная\TechnoService\techno\techno\obj\Debug\techno.pdb
